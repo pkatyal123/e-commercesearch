@@ -1,0 +1,32 @@
+Summary of matches for "blue denim"
+
+- Product 34479 — Test Product 34479 (women’s casual tunic blouse)
+  - Match: Best match
+  - Why: Deep navy, chambray-like lightweight woven fabric and matte finish — visually and texturally closest to a denim/chambray look. Solid blue, casual style.
+  - Confidence: High
+
+- Product 13438 — Test Product 13438 (men’s short‑sleeve polo)
+  - Match: Partial
+  - Why: Light/sky blue color but knit/pique polo fabric, not denim or denim-like woven. Good if you want a blue garment but not a denim look.
+  - Confidence: High (for color), low (for "denim")
+
+- Product 26548 — Test Product 26548 (toddler low‑top sneaker, navy)
+  - Match: Partial/Accessory
+  - Why: Deep navy color (canvas upper), but it’s footwear and canvas, not denim fabric. Useful as a navy accessory to pair with denim but not a denim garment.
+  - Confidence: High
+
+- Product 12189 — Test Product 12189 (men’s short‑sleeve button shirt)
+  - Match: Poor
+  - Why: Description says dark charcoal gray; metadata lists base_colour 'Blue' — fabric is a lightweight woven with slub texture, but not described as blue denim.
+  - Confidence: Low (conflicting info)
+
+- Product 26811 — Test Product 26811 (men’s straight‑leg pants)
+  - Match: Poor
+  - Why: Description is olive/army green utility pants (not blue denim), though metadata lists base_colour 'Blue' — not a denim match.
+  - Confidence: Low (conflicting info)
+
+Recommendation
+- Pick product 34479 (Test Product 34479). It most closely matches "blue denim" because of the deep navy, chambray/denim‑like woven fabric and casual silhouette. If you specifically need classic heavier denim (jeans/jacket) rather than a chambray‑style top, none of these items are true denim jeans/jackets — consider searching for "jeans," "denim jacket," or "chambray" for more exact matches.
+
+Note
+- Some catalog metadata (base_colour) conflicts with product descriptions (e.g., items described as olive or charcoal but tagged blue). I relied on the written descriptions when assessing match quality. If you want, I can re-check images or expand the search to include other denim-like items.
