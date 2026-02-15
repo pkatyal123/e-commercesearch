@@ -1,0 +1,19 @@
+Summary of matches
+- No products match the query "red running shoes." All returned items are blue/grey/black or unrelated in color.
+- Closest match by product type:
+  - Test Product 31972 — low-top lace-up athletic sneaker (breathable grey mesh upper, turquoise/teal sole). Style and usage fit "running/training" but color is grey/blue, not red.
+- Other results (not good matches):
+  - Test Product 15334 — black athletic shorts (apparel, not shoes).
+  - Test Product 26548 — toddler/children's navy canvas sneaker (kids’ casual shoe, not adult running shoe and not red).
+- Note: 31972 and 26548 each appeared more than once in the returned list.
+
+Recommended best fit
+- If you need a running-style shoe from this set, pick Test Product 31972 — it matches the running/trainer silhouette and materials, though it is grey/blue with a turquoise sole, not red.
+- If color (red) is essential, none of these items meet your requirement.
+
+Next steps I can take for you
+- Search the catalog specifically for "red" or filter by base_colour = red to find true red running shoes.
+- Show similar running-style shoes in other colors or set an alert if red sizes come in later.
+- If you tell me size, gender, or price range, I can narrow results faster.
+
+Which would you like me to do?

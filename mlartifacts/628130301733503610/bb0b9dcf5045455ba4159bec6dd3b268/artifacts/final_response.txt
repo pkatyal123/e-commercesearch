@@ -1,0 +1,17 @@
+Summary of matches
+- No items in the returned set match the query "yellow shoes." All catalog items found are blue/grey or otherwise non‑yellow.
+- Two distinct shoe styles appear (each listed multiple times in the metadata):
+  1. Test Product 26548 (product_id 26548) — low‑top canvas/casual kids’ sneaker in deep navy with white toe cap and sole. Details show toddler/kids sizing, casual trainer style, lace + hook strap option.
+  2. Test Product 31972 (product_id 31972) — low‑top athletic/running sneaker in light/dark grey with a bright turquoise/teal outsole accent. Sporty, lightweight trainer silhouette for unisex/adult use.
+- Other items (e.g., a cobalt blue wristwatch) are not shoes. Note: some product metadata incorrectly tags shoes as "Tshirts/Topwear."
+
+Recommendation
+- Best matches in this set if you can accept a different color:
+  - For a sporty adult trainer: Test Product 31972 (grey with turquoise sole).
+  - For a casual/toddler shoe: Test Product 26548 (navy canvas with white toe cap).
+- If you specifically want yellow shoes, none of these fit. I recommend:
+  - Re-running the catalog search with the color filter set to "yellow" (or search term "yellow sneaker / yellow shoes").
+  - Expanding the search to include other categories or suppliers, or asking me to notify you when yellow shoes are added.
+  - If you want a close visual match instead of color, confirm whether you prefer casual canvas (26548) or athletic/mesh (31972).
+
+Would you like me to search the full catalog for yellow shoes now, set an alert, or show similar styles in other colors?
